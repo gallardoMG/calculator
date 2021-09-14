@@ -1,4 +1,4 @@
-# Calculator (React, js, css)
+# Calculator (React, js, context api)
 
 ## Introducction
 
