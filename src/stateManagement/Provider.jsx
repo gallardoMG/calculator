@@ -11,8 +11,7 @@ export const Provider = ({ children }) => {
   };
   return (
     <>
-      {/* <Context.Provider value={{ ...values }}>{children}</Context.Provider> */}
-      {/* {console.log('prueba con git')} */}
+      <Context.Provider value={{ ...values }}>{children}</Context.Provider>
     </>
   );
 };
