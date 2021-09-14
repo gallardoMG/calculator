@@ -3,8 +3,8 @@
 ## Introducction
 
 This project is a calculator with addition, subtraction, division, multiplication and some
-others util functions.
-
+others util functions, without using the eval function.
+.
 ## Available Scripts
 
 In the project directory, you can run:
